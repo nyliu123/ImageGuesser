@@ -1,8 +1,14 @@
-# ImageGuesser
+# OllamaGuess
 
-ImageGuesser is a local Tkinter drawing game that lets you sketch a black-and-white image and ask an Ollama vision model to guess what it is.
+OllamaGuess is a local Tkinter drawing game that lets you sketch a black-and-white image and ask an Ollama vision model to guess what it is.
 
 The app is bilingual and can switch between English and Chinese from the toolbar. It automatically looks for locally installed vision-capable Ollama models, sends the canvas image to the selected model, and shows the returned guess in the side panel.
+
+## Overview
+
+![](./assets/example1.png "example1")
+
+![](./assets/example2.png "example2")
 
 ## Features
 

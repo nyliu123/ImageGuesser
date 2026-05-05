@@ -6,9 +6,9 @@ The app is bilingual and can switch between English and Chinese from the toolbar
 
 ## Overview
 
-![](./assets/example1.png "example1")
+![](.\assets\example1.png "example1")
 
-![](./assets/example2.png "example2")
+![](.\assets\example2.png "example2")
 
 ## Features
 
